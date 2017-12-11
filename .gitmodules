@@ -1,0 +1,3 @@
+[submodule "text-game"]
+	path = text-game
+	url = https://github.com/staed/text-game
